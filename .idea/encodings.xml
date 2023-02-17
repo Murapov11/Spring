@@ -5,9 +5,9 @@
     <file url="file://$PROJECT_DIR$/Rest/quoters/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sis1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sis1/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sis2.1/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sis2.1/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sis3/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sis3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sis2.1RESTTEMPLATE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sis2.1RESTTEMPLATE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sis3REST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sis3REST/src/main/resources" charset="UTF-8" />
   </component>
 </project>
